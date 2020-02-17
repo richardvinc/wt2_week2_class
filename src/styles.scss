@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+$bgColor: dodgerblue;
+$fontColor: white;
+$fontSize: 1.5em;
+
+body {
+  background-color: $bgColor;
+  color: $fontColor;
+  font-size: $fontSize;
+  font-family: 'Dosis', sans-serif;
+}
